@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/EgoExo4D
 excerpt: A large-scale multimodal dataset capturing synchronized egocentric and exocentric video of skilled human activities.
 date: 2024-06-27
-venue: 'CVPR 2024 (Oral presentation)'
+venue: 'CVPR 2024 <strong>(Oral presentation)</strong>'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Grauman_Ego-Exo4D_Understanding_Skilled_Human_Activity_from_First-_and_Third-Person_Perspectives_CVPR_2024_paper.pdf'
 bibtexurl: 
 citation: 'Grauman, K., Westbury, A., Torresani, L., Kitani, K., Malik, J., Afouras, T., ... & Wray, M. (2024). Ego-exo4d: Understanding skilled human activity from first-and third-person perspectives. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 19383-19400).'
