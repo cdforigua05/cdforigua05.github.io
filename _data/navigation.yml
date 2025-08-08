@@ -11,20 +11,17 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Achievements"
+    url: /achievements/
+
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Talks"
     url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-  
   - title: "CV"
     url: /cv/
-  
-  - title: "Achievements"
-    url: /achievements/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
