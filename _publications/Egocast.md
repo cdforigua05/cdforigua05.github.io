@@ -3,7 +3,7 @@ title: "Egocast: Forecasting egocentric human pose in the wild"
 collection: publications
 category: conferences
 permalink: /publication/Egocast
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt:
 date: 2025-02-17
 venue: 'WACV 2025'
 paperurl: 'https://arxiv.org/pdf/2412.02903'

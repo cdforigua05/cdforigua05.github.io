@@ -3,7 +3,7 @@ title: "EgoCOL: Egocentric Camera pose estimation for Open-world 3D object Local
 collection: publications
 category: conferences
 permalink: /publication/EgoCOL
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 
 date: 2023-06-27
 venue: 'Ego4D challenge at CVPR 2023'
 paperurl: 'https://arxiv.org/pdf/2306.16606'

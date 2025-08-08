@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Computer Vision"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+type: "Graduate Course"
+permalink: /teaching/computer-vision
+venue: "Universidad de los Andes, Biomedical Engineering Department"
 date: 2015-01-01
-location: "City, Country"
+location: "Bogotá, Colombia"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.

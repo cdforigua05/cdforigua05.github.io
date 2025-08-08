@@ -3,7 +3,7 @@ title: "Ego-exo4d: Understanding skilled human activity from first-and third-per
 collection: publications
 category: conferences
 permalink: /publication/EgoExo4D
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 
 date: 2024-06-27
 venue: 'CVPR 2024 (Oral presentation)'
 paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Grauman_Ego-Exo4D_Understanding_Skilled_Human_Activity_from_First-_and_Third-Person_Perspectives_CVPR_2024_paper.pdf'

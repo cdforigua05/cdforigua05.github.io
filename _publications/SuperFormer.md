@@ -3,7 +3,7 @@ title: "Superformer: Volumetric transformer architectures for mri super-resoluti
 collection: publications
 category: conferences
 permalink: /publication/SuperFormer
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 
 date: 2022-02-17
 venue: 'SASHIMI Workshop - MICCAI 2022'
 paperurl: 'https://arxiv.org/pdf/2406.03359'
