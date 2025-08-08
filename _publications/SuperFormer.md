@@ -8,7 +8,7 @@ date: 2022-02-17
 venue: 'SASHIMI Workshop - MICCAI 2022'
 paperurl: 'https://arxiv.org/pdf/2406.03359'
 bibtexurl: 
-citation: 'Forigua, C., Escobar, M., & Arbelaez, P. (2022, September). Superformer: Volumetric transformer architectures for mri super-resolution. In International workshop on simulation and synthesis in medical imaging (pp. 132-141). Cham: Springer International Publishing.'
+citation: '<strong>Forigua, C.</strong>, Escobar, M., & Arbelaez, P. (2022, September). Superformer: Volumetric transformer architectures for mri super-resolution. In International workshop on simulation and synthesis in medical imaging (pp. 132-141). Cham: Springer International Publishing.'
 ---
 Abstract
 ====

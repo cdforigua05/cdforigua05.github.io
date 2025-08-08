@@ -8,7 +8,7 @@ date: 2025-02-17
 venue: 'Under Review'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2024.11.22.624768v1.full.pdf'
 bibtexurl: 
-citation: 'Robles, M., Díaz-Riaño, J., Forigua, C., Ojeda, S., Guio, L., Siaucho, P., ... & Duitama, J. (2024). New algorithms for unsupervised cell clustering from scRNA-seq data. bioRxiv, 2024-11.'
+citation: 'Robles, M., Díaz-Riaño, J., <strong>Forigua, C.</strong>, Ojeda, S., Guio, L., Siaucho, P., ... & Duitama, J. (2024). New algorithms for unsupervised cell clustering from scRNA-seq data. bioRxiv, 2024-11.'
 ---
 Abstract
 ====
