@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Cristhian Forigua / Site Title"
+title                    : "Cristhian Forigua"
 title_separator          : "-"
 name                     : &name "Cristhian Forigua"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "cdforigua05/cdforigua05.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.webp"
   name             : "Cristhian Forigua"
   pronouns         : # example: "she/her"  
   bio              : "AI Engineer & Researcher"
