@@ -7,15 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi there!
+Hi there!  
 
-I'm an AI Engineer & Researcher with strong background in Computer Vision and Machine Learning. My previous work spans **Egocentric Vision, 3D Recognition, 3D Scene Understanding, Biomedical Imaging, and Bioinformatics**.
+I am an AI Engineer and Researcher with a strong background in Computer Vision and Machine Learning, specializing in **Egocentric Vision, 3D Recognition, Biomedical Imaging, and Bioinformatics**. I hold a Master’s in Biomedical Engineering and dual Bachelor’s degrees in Systems & Computing Engineering and Biomedical Engineering from *Universidad de los Andes* (Colombia). I have conducted research at the [Center for Research and Formation in Artificial Intelligence (CinfonIA)](https://cinfonia.uniandes.edu.co/) under the supervision of Prof. [Pablo Arbeláez](https://scholar.google.com/citations?hl=es&user=k0nZO90AAAAJ), resulting in publications at top-tier venues such as **CVPR, WACV, and MICCAI**.  
 
-I hold a Master’s in Biomedical Engineering and dual Bachelor’s degrees in Systems & Computing Engineering and Biomedical Engineering from Universidad de los Andes (Colombia). I have contributed to research at the [Center for Research and Formation in Artificial Intelligence (CinfonIA)](https://cinfonia.uniandes.edu.co/), working under Professor [Pablo Arbeláez](https://scholar.google.com/citations?hl=es&user=k0nZO90AAAAJ), which resulted in publications at top-tier venues such as CVPR, WACV, and MICCAI.
+My research interests lie at the intersection of **egocentric vision** and **3D computer vision**, with a focus on **open-world 3D scene understanding and human–object interaction reasoning**. I am particularly interested in developing multimodal models that integrate visual, spatial, and language information to enable richer understanding and interaction in complex, dynamic environments.  
 
-Currently, I work as an AI Integration Engineer at ReBlink (Toronto), integrating diffusion-based **generative AI for 2D/3D asset creation and LLM-powered systems** for interactive video game experiences.
+**I am currently seeking PhD opportunities** to further this line of research.
 
-I am **currently seeking PhD opportunities** where I can advance research at the intersection of <span style="color:#31BDE8;">Egocentric Vision and 3D Computer Vision</span>. My research interests include <span style="color:#31BDE8;">open-world 3D scene understanding and human–object interaction reasoning</span>. I am particularly interested in developing multimodal models that integrate visual, spatial, and language information to identify and segment seen and unseen objects, while reasoning about their affordances and interactions in complex, dynamic 3D environments. My goal is **to create human-centric, generalizable systems** that bridge perception and action, enabling more natural and seamless human-AI collaboration.
 
 
 News
@@ -29,7 +28,7 @@ News
 
 - **2023**
     - I successfully defended my Master's thesis *Egocentric scene interpretation* at Universidad de los Andes. Take a look at my [thesis](https://cdforigua05.github.io/files/Egocentric_Scene_Interpretation.pdf).
-    - Our work [EgoCOL](https://arxiv.org/pdf/2306.16606) achieve second place at the Ego4D challenges at CVPR 2023.
+    - Our work [EgoCOL](https://arxiv.org/pdf/2306.16606) achieved second place at the Ego4D challenges at CVPR 2023.
 
 - **2022**
     - My first author work [SuperFormer](https://arxiv.org/pdf/2406.03359) has been accepted to SASHIMI workshop at MICCAI 2022.
