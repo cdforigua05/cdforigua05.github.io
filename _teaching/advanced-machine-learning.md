@@ -1,5 +1,5 @@
 ---
-title: "Advanced Machine Learning"
+title: "Undergraduate teaching assistant for Advanced Machine Learning"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/advanced-machine-learning

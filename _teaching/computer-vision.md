@@ -1,5 +1,5 @@
 ---
-title: "Computer Vision"
+title: "Graduate teaching assistant for Computer Vision"
 collection: teaching
 type: "Graduate Course"
 permalink: /teaching/computer-vision
