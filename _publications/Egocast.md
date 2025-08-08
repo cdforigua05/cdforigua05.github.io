@@ -1,7 +1,7 @@
 ---
 title: "Egocast: Forecasting egocentric human pose in the wild"
 collection: publications
-category: Conference Papers
+category: conferences
 permalink: /publication/Egocast
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2024-02-17

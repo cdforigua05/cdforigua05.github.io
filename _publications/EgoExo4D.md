@@ -1,7 +1,7 @@
 ---
 title: "Ego-exo4d: Understanding skilled human activity from first-and third-person perspectives"
 collection: publications
-category: Conference Papers
+category: conferences
 permalink: /publication/EgoExo4D
 excerpt: 'This paper is about fixing template issue #693.'
 date: '2025'
@@ -13,4 +13,4 @@ citation: 'Escobar, M., Puentes, J., Forigua, C., Pont-Tuset, J., Maninis, K. K.
 
 Abstract
 ====
-Accurately estimating and forecasting human body pose is important for enhancing the user's sense of immersion in Augmented Reality. Addressing this need, our paper introduces EgoCast, a bimodal method for 3D human pose forecasting using egocentric videos and proprioceptive data. We study the task of human pose forecasting in a realistic setting, extending the boundaries of temporal forecasting in dynamic scenes and building on the current framework for current pose estimation in the wild. We introduce a current-frame estimation module that generates pseudo-groundtruth poses for inference, eliminating the need for past groundtruth poses typically required by current methods during forecasting. Our experimental results on the recent Ego-Exo4D and Aria Digital Twin datasets validate EgoCast for real-life motion estimation. On the Ego-Exo4D Body Pose 2024 Challenge, our method significantly outperforms the state-of-the-art approaches, laying the groundwork for future research in human pose estimation and forecasting in unscripted activities with egocentric inputs.
+We present Ego-Exo4D a diverse large-scale multimodal multiview video dataset and benchmark challenge. Ego-Exo4D centers around simultaneously-captured egocentric and exocentric video of skilled human activities (e.g. sports music dance bike repair). 740 participants from 13 cities worldwide performed these activities in 123 different natural scene contexts yielding long-form captures from 1 to 42 minutes each and 1286 hours of video combined. The multimodal nature of the dataset is unprecedented: the video is accompanied by multichannel audio eye gaze 3D point clouds camera poses IMU and multiple paired language descriptions---including a novel "expert commentary" done by coaches and teachers and tailored to the skilled-activity domain. To push the frontier of first-person video understanding of skilled human activity we also present a suite of benchmark tasks and their annotations including fine-grained activity understanding proficiency estimation cross-view translation and 3D hand/body pose. All resources are open sourced to fuel new research in the community.

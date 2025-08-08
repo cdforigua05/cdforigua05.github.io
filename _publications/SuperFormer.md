@@ -1,7 +1,7 @@
 ---
 title: "Superformer: Volumetric transformer architectures for mri super-resolution"
 collection: publications
-category: Conference Papers
+category: conferences
 permalink: /publication/SuperFormer
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2022-02-17
