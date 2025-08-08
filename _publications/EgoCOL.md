@@ -3,7 +3,7 @@ title: "EgoCOL: Egocentric Camera pose estimation for Open-world 3D object Local
 collection: publications
 category: conferences
 permalink: /publication/EgoCOL
-excerpt: 
+excerpt: A dual-reconstruction egocentric camera pose estimation method that boosts recall and precision for open-world 3D object localization in the Ego4D VQ3D challenge.
 date: 2023-06-27
 venue: 'Ego4D challenge at CVPR 2023'
 paperurl: 'https://arxiv.org/pdf/2306.16606'

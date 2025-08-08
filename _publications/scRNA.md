@@ -3,7 +3,7 @@ title: "New algorithms for unsupervised cell clustering from scRNA-seq data"
 collection: publications
 category: under_review
 permalink: /publication/scRNA
-excerpt:
+excerpt: Novel k-MST graph-based clustering methods tailored for unsupervised identification of cell types from single-cell RNA-seq datasets.
 date: 2025-02-17
 venue: 'Under Review'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2024.11.22.624768v1.full.pdf'

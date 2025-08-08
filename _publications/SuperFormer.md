@@ -3,7 +3,7 @@ title: "Superformer: Volumetric transformer architectures for mri super-resoluti
 collection: publications
 category: conferences
 permalink: /publication/SuperFormer
-excerpt: 
+excerpt: A 3D Swin-Transformer-based model that uses local self-attention with volumetric and feature-domain fusion to enhance MRI resolution.
 date: 2022-02-17
 venue: 'SASHIMI Workshop - MICCAI 2022'
 paperurl: 'https://arxiv.org/pdf/2406.03359'
