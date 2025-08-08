@@ -15,20 +15,22 @@ My research interests lie at the intersection of **egocentric vision** and **3D 
 
 **I am currently seeking PhD opportunities** to further this line of research.
 
-
+CV
+======
+You can find my CV [here](https://cdforigua05.github.io/files/Cristhian_Forigua_CV.pdf).
 
 News
 ======
 
 - **2025**
-    - Our work [Egocast](https://bcv-uniandes.github.io/egocast-wp/) has been accepted to WACV 2025.
+    - Our work [Egocast](https://bcv-uniandes.github.io/egocast-wp/), in collaboration with [Kevis-Kokitsi Maninis](https://www.kmaninis.com/) and [Jordi Pont-Tuset](https://jponttuset.cat/), has been accepted to WACV 2025.
 
 - **2024**
     - Our work [EgoExo4D](https://ego-exo4d-data.org/) has been accepted to CVPR 2024 as an **oral presentation**.
 
 - **2023**
     - I successfully defended my Master's thesis *Egocentric scene interpretation* at Universidad de los Andes. Take a look at my [thesis](https://cdforigua05.github.io/files/Egocentric_Scene_Interpretation.pdf).
-    - Our work [EgoCOL](https://arxiv.org/pdf/2306.16606) achieved second place at the Ego4D challenges at CVPR 2023.
+    - Our work [EgoCOL](https://arxiv.org/pdf/2306.16606), in collaboration with [Kevis-Kokitsi Maninis](https://www.kmaninis.com/) and [Jordi Pont-Tuset](https://jponttuset.cat/), achieved second place at the Ego4D challenges at CVPR 2023.
 
 - **2022**
     - My first author work [SuperFormer](https://arxiv.org/pdf/2406.03359) has been accepted to SASHIMI workshop at MICCAI 2022.
