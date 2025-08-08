@@ -5,12 +5,12 @@ author_profile: true
 ---
 
 ## Scholarships & Awards
-- [Nombre de la Beca o Premio] — Institución, Año  
-  Breve descripción (opcional).
+- QE Scholarship Beneficiary — Universidad de los Andes, 2017  
+  Awarded in recognition of **outstanding academic performance**, this scholarship provided financial support to pursue my undergraduate studies.  
 
 ## Conference Attendance
-- [Nombre de la Conferencia] — Ciudad, País, Año  
-  Rol: (Asistente, Ponente, Presentador de póster, etc.)
+- CVPR 2024 — Seattle, USA, 2024  
+  Rol: Attendee (with one co-authored paper accepted for **oral presentation**)
 
 ## Challenge Results
 - [Nombre del Challenge o Competencia], [Evento/Conferencia], Año  
