@@ -4,11 +4,11 @@ collection: publications
 category: conferences
 permalink: /publication/Egocast
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'CVPR 2024 (Oral presentation)'
-paperurl: 'https://openaccess.thecvf.com/content/CVPR2024/papers/Grauman_Ego-Exo4D_Understanding_Skilled_Human_Activity_from_First-_and_Third-Person_Perspectives_CVPR_2024_paper.pdf'
+date: 2025-02-17
+venue: 'WACV 2025'
+paperurl: 'https://arxiv.org/pdf/2412.02903'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Grauman, K., Westbury, A., Torresani, L., Kitani, K., Malik, J., Afouras, T., ... & Wray, M. (2024). Ego-exo4d: Understanding skilled human activity from first-and third-person perspectives. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 19383-19400).'
+citation: 'Escobar, M., Puentes, J., Forigua, C., Pont-Tuset, J., Maninis, K. K., & Arbelaez, P. (2025, February). Egocast: Forecasting egocentric human pose in the wild. In 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (pp. 5831-5841). IEEE.'
 ---
 
 Abstract

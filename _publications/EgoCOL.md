@@ -4,8 +4,8 @@ collection: publications
 category: conferences
 permalink: /publication/EgoCOL
 excerpt: 'This paper is about fixing template issue #693.'
-date: 2023-02-17
-venue: 'Ego4D challenge at CVPR2023'
+date: 2023-06-27
+venue: 'Ego4D challenge at CVPR 2023'
 paperurl: 'https://arxiv.org/pdf/2306.16606'
 bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Forigua, C., Escobar, M., Pont-Tuset, J., Maninis, K. K., & Arbeláez, P. (2023). EgoCOL: Egocentric Camera pose estimation for Open-world 3D object Localization@ Ego4D challenge 2023. arXiv preprint arXiv:2306.16606.'
