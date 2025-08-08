@@ -8,7 +8,7 @@ date: 2025-02-17
 venue: 'WACV 2025'
 paperurl: 'https://arxiv.org/pdf/2412.02903'
 bibtexurl: 
-citation: 'Escobar, M., Puentes, J., **Forigua, C.**, Pont-Tuset, J., Maninis, K. K., & Arbelaez, P. (2025, February). Egocast: Forecasting egocentric human pose in the wild. In 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (pp. 5831-5841). IEEE.'
+citation: 'Escobar, M., Puentes, J., <strong>Forigua, C.</strong>, Pont-Tuset, J., Maninis, K. K., & Arbelaez, P. (2025, February). Egocast: Forecasting egocentric human pose in the wild. In 2025 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) (pp. 5831-5841). IEEE.'
 ---
 
 Abstract

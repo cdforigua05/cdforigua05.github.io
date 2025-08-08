@@ -18,7 +18,9 @@ author_profile: true
   - Awarded for developing an advanced MRI super-resolution method that enhanced medical imaging accuracy.
 
 
-## Conference Attendance
+## Conference Participation
 - **CVPR 2024** — Seattle, USA, 2024  
   Role: Attendee (with one co-authored paper accepted for **oral presentation**)
+- **LatinX in Computer Vision Research Workshop - CVPR 2023** — Vancouver, Canada, 2023
+  Role: Reviewer
 
