@@ -3,7 +3,7 @@ title: "Egocast: Forecasting egocentric human pose in the wild"
 collection: publications
 category: conferences
 permalink: /publication/Egocast
-excerpt:
+excerpt: EgoCast is a bimodal method that uses egocentric video and proprioceptive data to accurately estimate and forecast 3D human poses in real-world, unscripted activities, achieving state-of-the-art results without requiring past ground-truth poses.
 date: 2025-02-17
 venue: 'WACV 2025'
 paperurl: 'https://arxiv.org/pdf/2412.02903'
