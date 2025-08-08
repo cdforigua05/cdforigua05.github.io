@@ -3,7 +3,7 @@ title: "High-Resolution Image Synthesis with Latent Diffusion Models"
 collection: talks
 type: "Talk"
 permalink: /talks/2025-08-07-high-resolution-image-synthesis-with-latent-diffusion-models
-venue: "UC San Francisco, Department of Testing"
+venue: "Universidad de los Andes, Biomedical Computer Vision Group"
 date: 2023-03-01
 location: "Bogotá, Colombia"
 ---
